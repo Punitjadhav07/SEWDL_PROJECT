@@ -19,4 +19,6 @@ Creedify is a sleek, responsive web app built with HTML, CSS, and JavaScript tha
 | JavaScript | Interactivity and dynamic content |
 
 
+including extra features
+
 
